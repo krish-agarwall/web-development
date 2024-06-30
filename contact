@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contacts Details</title>
+</head>
+<body>
+<h1>My contact details<h1>
+    <hr>
+<h2>
+<ul>
+<li>Address-H.S Road Dibrugarh,Assam<br>
+<li>Mobile no-5678934521<br>
+<li>Email Address-okokok21@gmail.com<br>
+</ul>
+<h2>
+
+</body>
+</html>
